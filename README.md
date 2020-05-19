@@ -15,6 +15,8 @@ So you've decided to get involved with eggX? Here's everything you need to know 
 3. [Getting set-up](#getting-set-up)
 4. [Finding something to do](#finding-something-to-do)
 
+---
+
 ## Ground rules
 
 Before we get into the nitty-gritty, there are 3 key points that must be covered. By being involved with eggX _in any way_, you agree to the following rules:
@@ -32,7 +34,9 @@ We have a variety of events, workshops and projects that you may participate in.
     If you've experienced or noticed theft or plagarism, please let us know by contacting an exec personally, or by emailing watchdog@eggx.io
 
 3. **Lend a helping hand.**
-This isn't the Olympics. We want to nurture a community that takes care of itself, so we encourage everyone to lend a helping hand whenever they can. Maybe someone's stuck on something and you know that topic well, offer to help them out. If you've notice someone having a tough time, maybe beause of a lack of accessibility or some other incident, call for the attention of an exec and do your best to help them out.
+This isn't the Olympics. We want to nurture a community that takes care of itself, so we encourage everyone to lend a helping hand whenever they can. Maybe someone's stuck on something and you know that topic well, offer to help them out. If you've noticed someone having a tough time, maybe beause of a lack of accessibility or some other incident, call for the attention of an exec and do your best to help them out.
+
+---
 
 ## Becoming a member
 
@@ -42,8 +46,8 @@ We introduced the concept of membership as a way to protect the identity of peop
 
 If you're interested in participating in [Projects](#projects), or you'd like to have an [eggX Resume](#eggx-resume) developed for you, you would need to be a member. Lucky for you, it's really simple! Here are the ways you can join:
 
-- Join our club through [CUSAHub](cusahub.online)
-- Register as a member through [our website](eggx.io/join)
+- Join our club through [CUSAHub](https://cusahub.online)
+- Register as a member through [our website](https://eggx.io/join)
 - Meet us at a general event or seminar
 
 **Participation as a member is completely free, with no exceptions** and we have partnerships with several technology companies that operate in the Ottawa-area (talk about job prospects!)
@@ -54,7 +58,7 @@ If you're interested in participating in [Projects](#projects), or you'd like to
 
 In this section, we assume that you're already a [member](#member). As a member, you automatically have:
 
-- An eggX ID, which is your unique tag. You'll use this ID to check-in at our events and access resources.
+- An [eggX ID](#eggx-id), which is your unique tag. You'll use this ID to check-in at our events and access resources.
 
 - An [eggX Resume](#eggx-resume), which is a highlight of all your accomplishments at events, workshops and projects, as well as basic info.
 
@@ -71,11 +75,11 @@ Congrats! You're special; you're a member. You have access to the eggX network w
 
 The eggX Share can be found at [eggx.io/share](https://eggx.io/share) .
 
-As a member, you will already have an account setup for you. To login for the first time, click on `First Time Login` where you'll be able to verify your account using the email your provided us when you became a member. From that email, you'll be able to enter a password for your account.
+As a member, you will already have an account setup for you. To login for the first time, click on `First Time Login` where you'll be able to verify your account using the email you provided us when you became a member. From that email, you'll be able to enter a password for your account.
 
 When you've created your password, login with your username as your [`eggx ID`](#eggx-id) and the password you created.
 
-If you forget your password at any point, just lick on `Forgot password` and we'll get you up and running again!
+If you forget your password at any point, just lick on `Forgot password` and we'll get you up and running again.
 
 ### Setting up your GitHub
 
@@ -83,7 +87,7 @@ GitHub is a lovely place where you can publish your code and resources publicly 
 
 To create a GitHub account, visit [github.com/join](https://github.com/join) . You can use any username you want (and you can change it later, but with consequences).
 
-Repositories (repos) are the primary medium for sharing code. Imagine that a repo is a virtual bookshelf where you place your books (or files). Once, you've created your account, create a new repo at [github.com/new](https://github.com/new) , give it the name 'example-repo', make the repo public, and **make sure you check 'Initialize this repository with a README'** which will create a `README.md` file which is basically a description of the repository. Ignore other setting and click `Create repository`. You will now be taken to your repo page.
+Repositories (repos) are the primary medium for sharing code. Imagine that a repo is a virtual bookshelf where you place your books (or files). Once, you've created your account, create a new repo at [github.com/new](https://github.com/new) , give it the name `'example-repo'`, make the repo public, and **make sure you check 'Initialize this repository with a README'** which will create a `README.md` file which is basically a description of the repository. Ignore other setting and click `Create repository`. You will now be taken to your repo page.
 
 Try uploading a file by dragging and dropping it onto the page. This is basically how GitHub works, you can use more complex methods and integrations, but that's for another day.
 
@@ -95,12 +99,12 @@ Once you're all set-up, you're probably going to be eager to get your hands dirt
 
 - Outdoor events
 - Sponsored talks
-- A semester-eide coding competition (a.k.a projects!)
+- A semester-wide coding competition (a.k.a projects!)
 - Workshops
 
 In every option, there will be prizes and giveaways available to everyone who attends!
 
-Every, single, event we host will be listed on our website at [eggx.io/events](eggx.io/events) . You'll also be able to register for the event through that page (if the event requires it).
+Every, single, event we host will be listed on our website at [eggx.io/events](https://eggx.io/events) . You'll also be able to register for the event through that page (if the event requires it).
 
 ### Projects
 
@@ -122,9 +126,9 @@ A project's domain is a generalized field that a project is a part of. We allow 
 
 2. The web domain is for projects that live online. So that ranges from websites to webapps to native web solutions. Projects in this domain must have a primary web entrypoint and must be hosted.
 
-3. The AI domain is, as the name implies, for AI projects. We work with Carleton's AI Society to provide this domain, and anyone who wants to venture into this exiting new are, will do so through their curriculum.
+3. The AI domain is, as the name implies, for Artificial Intelligence (and Machine Learning/Deep Learning) projects. We work with Carleton's AI Society to provide this domain, and anyone who wants to venture into this exiting new area, will do so through their curriculum.
 
-4. The theory domain is for projects that focus on the theory of Computer Science. Such a project will focus on analysing/designing/implementsing algorithms, architectures and other theoretical concepts.
+4. The theory domain is for projects that focus on the theory of Computer Science. Such a project will focus on analyzing/designing/implementing algorithms, architectures and other theoretical concepts.
 
 #### Project Description
 
@@ -137,13 +141,13 @@ A project description is a run-down of what your project is. It includes:
 
 You should come together with your team to decide on the above points. We reccomend you do this at the 'Into to Projects' talk because you'll be able to submit your project description immediately and get started.
 
-If you missed the 'Intro to Projects' talk, your team can also submit the project description via the [eggX Share](eggx.io/share) . If you haven't setup your team yet, that can also be done from the eggX Share.
+If you missed the 'Intro to Projects' talk, your team can also submit the project description via the [eggX Share](https://eggx.io/share) . If you haven't setup your team yet, that can also be done from the eggX Share.
 
 ## End
 
 [_back to top_](#eggx-manual)
 
-That's it folks! Anything else that we missed in this document can be found at our website: [eggx.io](eggx.io) .
+That's it folks! Anything else that we missed in this document can be found at our website: [eggx.io](https://eggx.io) . If you still can't find what you're looking for, send us an email at help@eggx.io
 
 Have fun!
 
@@ -151,7 +155,7 @@ Have fun!
 
 ### eggX ID
 
-A tag that every eggX [member](#member) is given when they join. Members use their ID to check-in at events and login to the [eggX Network Share](eggx.io/share). It is reccomended that members check-in at events as checking-in typically unlocks exclusive prizes.
+A tag that every eggX [member](#member) is given when they join. Members use their ID to check-in at events and login to the [eggX Network Share](https://eggx.io/share). It is reccomended that members check-in at events as checking-in typically unlocks exclusive prizes.
 
 ### eggX Resume
 
