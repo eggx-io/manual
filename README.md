@@ -108,7 +108,7 @@ Every, single, event we host will be listed on our website at [eggx.io/events](h
 
 ### Projects
 
-Projects are the biggest part of each semester, they are something you don't want to miss! At the beginning of each semester, we hold an 'Into to Projects' talk which is where you'll really get to know more about what projects actuall are, you'll also be able to choose a `domain` and find teammates.
+Projects are the biggest part of each semester, they are something you don't want to miss! At the beginning of each semester, we hold an 'Intro to Projects' talk which is where you'll really get to know more about what projects actuall are, you'll also be able to choose a `domain` and find teammates.
 
 To participate in projects, you will need to declare the following:
 
