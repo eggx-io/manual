@@ -2,12 +2,6 @@
 
 So you've decided to get involved with eggX? Here's everything you need to know to make the most of your time here:
 
-## Shortcuts
-
-- [Manual for Mentors](...)
-- [Manual for Contributors](...)
-- [Manual for Hosts](...)
-
 ### Sections
 
 1. [Ground rules](#ground-rules)
@@ -46,11 +40,10 @@ We introduced the concept of membership as a way to protect the identity of peop
 
 If you're interested in participating in [Projects](#projects), or you'd like to have an [eggX Resume](#eggx-resume) developed for you, you would need to be a member. Lucky for you, it's really simple! Here are the ways you can join:
 
-- Join our club through [CUSAHub](https://cusahub.online)
-- Register as a member through [our website](https://eggx.io/join)
-- Meet us at a general event or seminar
+- Register as a member through [this form](https://forms.gle/j3uxyxA5E7go43xbA)
+- Join our club through [CUSAClubs](http://cusaclubs.ca)
 
-**Participation as a member is completely free, with no exceptions** and we have partnerships with several technology companies that operate in the Ottawa-area (talk about job prospects!)
+**Participation as a member is completely free, with no exceptions** and we are working on partnerships with several technology companies that operate in the Ottawa-area (talk about job prospects!)
 
 ## Getting set-up
 
@@ -64,22 +57,9 @@ In this section, we assume that you're already a [member](#member). As a member,
 
 You will additionally need to do the following:
 
-- [Login to the eggX Share](#accessing-the-eggx-network-share)
 - [Setup a GitHub account](#setting-up-your-github)
 
 So lets get started!
-
-### Accessing the eggX Share
-
-Congrats! You're special; you're a member. You have access to the eggX network which is a private share of all sorts of content related to events, workshops and projects. It is also where you will work with your team to build something new!
-
-The eggX Share can be found at [eggx.io/share](https://eggx.io/share) .
-
-As a member, you will already have an account setup for you. To login for the first time, click on `First Time Login` where you'll be able to verify your account using the email you provided us when you became a member. From that email, you'll be able to enter a password for your account.
-
-When you've created your password, login with your username as your [`eggx ID`](#eggx-id) and the password you created.
-
-If you forget your password at any point, just lick on `Forgot password` and we'll get you up and running again.
 
 ### Setting up your GitHub
 
@@ -91,13 +71,17 @@ Repositories (repos) are the primary medium for sharing code. Imagine that a rep
 
 Try uploading a file by dragging and dropping it onto the page. This is basically how GitHub works, you can use more complex methods and integrations, but that's for another day.
 
+To get rid of your newly create repo, head over to the `Settings` page in your repository (it has the gear icon), scroll all the way down into the "Danger Zone" and click on "Delete this repository".
+
+You'll be added to the [Fall 2020](https://github.com/orgs/eggx-io/teams/f2020-draft) draft team (once it opens up) where you can get more info and see more specific repositories hosted by us!
+
 ## Finding something to do
 
 [_back to top_](#eggx-manual)
 
 Once you're all set-up, you're probably going to be eager to get your hands dirty. Well luck for you, we have plenty of options for you! As an outline, at eggX, we have:
 
-- Outdoor events
+- Online events
 - Sponsored talks
 - A semester-wide coding competition (a.k.a projects!)
 - Workshops
@@ -108,46 +92,33 @@ Every, single, event we host will be listed on our website at [eggx.io/events](h
 
 ### Projects
 
-Projects are the biggest part of each semester, they are something you don't want to miss! At the beginning of each semester, we hold an 'Intro to Projects' talk which is where you'll really get to know more about what projects actuall are, you'll also be able to choose a `domain` and find teammates.
+Projects are the biggest part of each semester, they are something you don't want to miss! At the beginning of each semester, we hold an 'Intro to eggX' talk which is where you'll really get to know more about what projects actuall are, you'll also be able to choose a `domain` and find teammates.
 
 To participate in projects, you will need to declare the following:
 
-- Your teammates: you will work in teams of 4
-- Your project's domain
-- A project description (explained later)
+- Your experience in coding
+- Your membership type
+- Your preferred project domain
 
-**All projects (that follow the ground-rules) will be accepted, no question**, and we will assign a mentor to your team. Your mentor will guide you through the process of completing your project and will lead team meetups.
+This semester (Fall-2020), we're working on building a game like the popular invention game, "Little Alchemy". You may be placed in a team of 3-4 based on overall numbers and experience. Everyone will be building the same game, just in different ways. Our hope is for everyone to come together at the end and see how just these 3 programming domains (frontend, backend & mobile) work together to shape the technology we use on a daily basis. You'll hopefully learn more than just how to code or how to design, you'll be able to think critically of and even begin to critisize existing software in the real world. We will assign a mentor to you/your team who will guide you through the process of completing your project and will lead team meetups.
 
 #### Project Domains
 
-A project's domain is a generalized field that a project is a part of. We allow members to choose between 4 domains: `mobile`, `web`, `ai`, and `theory`.
+A project's domain is a generalized field that a project is a part of. We allow members to choose between 3 domains: `mobile`, `frontend`, `backend`.
 
-1. The mobile domain is for any project that deals with mobile applications. A project in this domain must be able to be demoed on an Android or iOS device.
+1. The mobile domain is for any project that deals with mobile applications. A project in this domain must be able to be demoed on a physical/virtual Android device. Google Play fees my apply to you if you choose to publish your app on the store. Unfortunately, we are unable to facilitate iOS development at this time.
 
-2. The web domain is for projects that live online. So that ranges from websites to webapps to native web solutions. Projects in this domain must have a primary web entrypoint and must be hosted.
+2. The frontend domain is for projects that live online. So that ranges from websites to webapps to native web solutions. Projects in this domain must have a primary web entrypoint and must be hosted.
 
 3. The AI domain is, as the name implies, for Artificial Intelligence (and Machine Learning/Deep Learning) projects. We work with Carleton's AI Society to provide this domain, and anyone who wants to venture into this exiting new area, will do so through their curriculum.
 
-4. The theory domain is for projects that focus on the theory of Computer Science. Such a project will focus on analyzing/designing/implementing algorithms, architectures and other theoretical concepts.
-
-#### Project Description
-
-A project description is a run-down of what your project is. It includes:
-
-- the name of your project
-- an overview of your project
-- why you want to pursue the project
-- tools you'll need (think as big as you want)
-
-You should come together with your team to decide on the above points. We reccomend you do this at the 'Into to Projects' talk because you'll be able to submit your project description immediately and get started.
-
-If you missed the 'Intro to Projects' talk, your team can also submit the project description via the [eggX Share](https://eggx.io/share) . If you haven't setup your team yet, that can also be done from the eggX Share.
+4. The backend domain is for projects that focus on building offline/endpoint code. Projects in this domain will focus on writing algorithms and designing data structures among other concepts.
 
 ## End
 
 [_back to top_](#eggx-manual)
 
-That's it folks! Anything else that we missed in this document can be found at our website: [eggx.io](https://eggx.io) . If you still can't find what you're looking for, send us an email at help@eggx.io
+That's it folks! Anything else that we missed in this document can be found at our website: [eggx.io](https://eggx.io). If you still can't find what you're looking for, send us an email at info@eggx.io
 
 Have fun!
 
